@@ -29,8 +29,13 @@ const NavRight = () => {
 
   return (
     <ul className="lg:flex hidden gap-8 items-center">
-      {List.map((item) => (
-        <li className="text-[#ffffffb3] hover:text-white cursor-pointer duration-200 text-[14px]">
+      {List.map((item, index) => (
+        <li
+          style={{
+            color: index === 0 ? "white" : "",
+          }}
+          className="text-[#ffffffb3] hover:text-white cursor-pointer duration-200 text-[14px]"
+        >
           {item}
         </li>
       ))}
