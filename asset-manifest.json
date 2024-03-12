@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Specialist-site/static/css/main.b70b5f01.css",
+    "main.js": "/Specialist-site/static/js/main.5dc1b160.js",
+    "index.html": "/Specialist-site/index.html",
+    "main.b70b5f01.css.map": "/Specialist-site/static/css/main.b70b5f01.css.map",
+    "main.5dc1b160.js.map": "/Specialist-site/static/js/main.5dc1b160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b70b5f01.css",
+    "static/js/main.5dc1b160.js"
+  ]
+}
