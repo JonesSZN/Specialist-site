@@ -1,4 +1,4 @@
-<h1 align="center">Pocket Site</h1>
+<h1 align="center">Specialist-site</h1>
 
 ### Project Details
 Made with:
