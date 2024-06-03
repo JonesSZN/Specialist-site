@@ -1,3 +1,10 @@
-# Made with TailwindCSS, and React.
-## Some Images are not loading.
+<h1 align="center">Pocket Site</h1>
+
+### Project Details
+Made with:
+- HTML
+- TailwindCSS
+- React
+
+
 ![image](https://github.com/JonesSZN/Specialist-site/assets/110791038/d7f7daad-906f-47db-a265-39936003ccbf)
